@@ -31,15 +31,15 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -481,27 +481,28 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="74.29032258064515 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="73.1111111111111 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="212.25806451612902 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="208.88888888888889 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.306451612903226 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.222222222222222 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👎</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.222222222222222 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😄</text>
                                     </svg>
                                 </div>
@@ -514,21 +515,21 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="26.532258064516128 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="26.11111111111111 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👀</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.306451612903226 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.222222222222222 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.306451612903226 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.222222222222222 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                                     </svg>
                                 </div>
@@ -539,7 +540,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Oct 2025, 14:32:41 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Oct 2025, 14:28:01 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
